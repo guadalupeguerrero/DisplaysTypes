@@ -1,0 +1,23 @@
+div{
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	border:1px solid blue;
+	margin:10px;
+
+
+
+}
+
+
+.cuadrodos{
+	width: 375px;
+	height: 125px;
+	margin-top: 20px;
+
+}
+
+.cuadros{
+
+	display:inline-block;
+}
