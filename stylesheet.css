@@ -1,8 +1,8 @@
 div{
 	width: 100px;
 	height: 100px;
-	background-color: orange;
-	border:1px solid blue;
+	background-color: green;
+	border-radius:10px;
 	margin:10px;
 
 
@@ -13,11 +13,26 @@ div{
 .cuadrodos{
 	width: 375px;
 	height: 125px;
-	margin-top: 20px;
+	background-color: red;
+	margin-left: 500px;
 
 }
 
 .cuadros{
 
+
 	display:inline-block;
+
+}
+
+.img{
+	background-image:url("mosaico.png");
+}
+
+p{
+	font-size: 16px;
+	font-family: Arial;
+	text-align: center;
+	padding-top: 25px;
+	color: white;
 }
